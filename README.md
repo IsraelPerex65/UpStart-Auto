@@ -87,6 +87,6 @@ Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 Contacto
-Para cualquier duda o consulta, puedes ponerte en contacto con el equipo de desarrollo a través de correo@example.com.
+Para cualquier duda o consulta, puedes ponerte en contacto con el equipo de desarrollo a través de 23300087@uttt.edu.mx
 
 Gracias por utilizar Upstart Auto. ¡Esperamos que disfrutes de la experiencia y que la aplicación te sea de gran ayuda en el mantenimiento de tu vehículo!
